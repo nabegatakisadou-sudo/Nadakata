@@ -1,16 +1,13 @@
 {
-  "name": "NadaKata",
-  "short_name": "NadaKata",
-  "start_url": "./index.html",
+  "background_color": "#15131c",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#15131C",
-  "theme_color": "#15131C",
-  "description": "Aplikasi Pembuat Lagu AI",
-  "icons": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/461/461238.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "name": "NadaKata",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "NadaKata",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Aplikasi Musik AI",
+  "id": "nadakata"
 }
